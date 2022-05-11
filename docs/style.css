@@ -152,7 +152,7 @@ img.medium-zoom-image {
 }
 .content .markdown-section table thead th {
     border: 1px solid  #062a5e;
-    border-bottom: 1px solid #cbcbcb;
+    border-bottom: 1px solid #062a5e;
     text-align: left;
 }
 .content .markdown-section table thead tr {
