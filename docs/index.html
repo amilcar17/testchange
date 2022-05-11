@@ -8,6 +8,13 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/buble.css" />
   <!-- <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/dark.css"> -->
 
+  <!-- Custom theme styles -->
+<style>
+:root {
+  --base-font-size: 14px;
+  --theme-color   : purple;
+}
+</style>
 </head>
 <body>
   <div data-app id="main">Cargando... 💧</div>
@@ -15,7 +22,7 @@
     window.$docsify = {
           el: '#main',
           name: 'Open Water',
-          subMaxLevel: 2, // (12 Nov) Se amplía a más jerarquías // Sólo mostrar títulos y secciones en la barra de navegación
+          subMaxLevel: 6, // (12 Nov) Se amplía a más jerarquías // Sólo mostrar títulos y secciones en la barra de navegación
           loadSidebar: true,
           //alias: {
           //  '/.*/_sidebar.md': '/_sidebar.md'
