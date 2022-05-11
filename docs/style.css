@@ -159,9 +159,9 @@ img.medium-zoom-image {
     border: 1px solid #062a5e;
 }
 .content .markdown-section table td {
-    border: 1px solid #f2f2f2;
-    border-left: 1px solid #cbcbcb;;
-    border-right: 1px solid #cbcbcb;;
+    border: 1px solid #062a5e;
+    border-left: 1px solid #062a5e;
+    border-right: 1px solid #062a5e;
 }
 
 /* UL LI not so special style */
