@@ -120,6 +120,7 @@ article h1 {
 
 /* Sidebar */
 .sidebar ul li a {
+    color: #01295c
     padding: 6px 0;
     line-height: normal;
     text-overflow: initial;
