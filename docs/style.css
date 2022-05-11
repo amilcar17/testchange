@@ -121,7 +121,6 @@ article h1 {
 
 /* Sidebar */
 .sidebar ul li a {
-    background: #298596;
     
     padding: 6px 0;
     line-height: normal;
@@ -142,11 +141,9 @@ article h1 {
     border-right: 4px solid;
 }
 .sidebar ul li ul {
-    background: #298596;
     margin-bottom: 14px;
 }
 .sidebar ul li .emoji {
-    background: #298596;
     font-size: 1rem;
 }
 
