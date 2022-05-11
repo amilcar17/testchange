@@ -1,5 +1,6 @@
 <div style='opacity: 0.75; border-top: 1px dashed #9f9f9f;'>
 
+![Licencia](/images/inicio_licencia.png ":size=200")
 CC BY-NC-SA 4.0
 
 **Attribution-NonCommercial_ShareAlike 4.0 International**
@@ -10,3 +11,4 @@ This license requires that reusers give credit to the creator. It allows reusers
 
 
 </div>
+
