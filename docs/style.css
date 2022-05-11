@@ -52,14 +52,7 @@ article h1 {
     border-color: #898d8f ;
 }
 
-/* Navbar menu */
-.app-nav li ul {
-    border-radius: 0;
-    padding: 0;
-}
-.app-nav ul li>p {
-    font-size: 1rem;
-}
+
 
 /* Headings */
 .app-nav:not(:empty) ~ main .markdown-section {
