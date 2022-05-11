@@ -58,7 +58,7 @@ consumo elevado aun cuando no se está transmitiendo para reducir más el consum
 Tras relizar el cambio a mano se presentaron problemas en las conexiones entre compoentes dejando de utilizar esta versión.
 
 
-2. **Versión N°2:** Segunda placa PCB entregada por MSI, que posee un cable en la parte posterior por la falta de una ruta.
+1. **Versión N°2:** Segunda placa PCB entregada por MSI, que posee un cable en la parte posterior por la falta de una ruta.
 
 Detalles:
 
