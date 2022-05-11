@@ -138,6 +138,7 @@ article h1 {
     font-weight: 400;
 }
 .sidebar ul li.active > a {
+    background: #298596;
     border-right: 4px solid;
 }
 .sidebar ul li ul {
