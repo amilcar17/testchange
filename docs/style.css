@@ -153,7 +153,7 @@ img.medium-zoom-image {
 .content .markdown-section table thead th {
     border: 1px solid  #062a5e;
     border-bottom: 1px solid #062a5e;
-    text-align: left;
+    text-align: center;
 }
 .content .markdown-section table thead tr {
     border: 1px solid #062a5e;
@@ -164,7 +164,7 @@ img.medium-zoom-image {
     border-left: 1px solid #062a5e;
     border-right: 1px solid #062a5e;
 }
-
+/* enumeracion circular (copiado) */
 /* UL LI not so special style */
 .content .markdown-section ul label h1, 
 .content .markdown-section ol label h1,
@@ -236,7 +236,7 @@ img.medium-zoom-image {
 	padding-right: 0.75rem;
 	color: #298596;
 }
-
+/* Lista a cuadros (coiado) */
 /* OL LI special style */
 .content .markdown-section li:before,
 .content .markdown-section .content .markdown-section li:before {
@@ -346,9 +346,3 @@ img.medium-zoom-image {
 	content: counter(li-counter, lower-roman);
 }
 
-
-/* Share Links */
-a.fab,
-a.fab:hover {
-    color: white;
-}
