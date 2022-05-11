@@ -66,7 +66,7 @@ article h1 {
 /* Search bar*/
 .search input:focus {
     box-shadow: none !important;
-    border-color: #898d8f !important;
+    border-color: yellow !important;
 }
 
 /* Navbar menu */
@@ -127,7 +127,7 @@ article h1 {
 }
 .sidebar ul li a,
 .sidebar ul li p {
-    font-size: 15px;
+    font-size: 1rem;
     font-weight: 600;
 }
 .sidebar ul li ul a,
@@ -160,16 +160,6 @@ img.medium-zoom-image {
     height: auto;
 }
 
-/*IMAGE PLACEHOLDER */
-.content img {
-    color:#888;
-    font-style: italic;
-}
-.content img:after {
-    content:  '  🖼️ ';
-    font-style: normal;
-}
-
 /* DETAILS */
 .content .markdown-section details {
     padding:  0 1rem 0 1rem;
@@ -186,6 +176,7 @@ img.medium-zoom-image {
     cursor: pointer;
     background: #f2f2f2;
 }
+
 /* TABLE */
 .content .markdown-section table {
     font-size: 0.875rem;
