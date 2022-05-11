@@ -121,6 +121,7 @@ article h1 {
 
 /* Sidebar */
 .sidebar ul li a {
+    background: #298596;
     
     padding: 6px 0;
     line-height: normal;
