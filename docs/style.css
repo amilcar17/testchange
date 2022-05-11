@@ -59,14 +59,7 @@ article h1 {
     border-color: #898d8f !important;
 }
 
-/* Navbar menu */
-.app-nav li ul {
-    border-radius: 0;
-    padding: 0;
-}
-.app-nav ul li>p {
-    font-size: 1rem;
-}
+
 
 /* Headings */
 .app-nav:not(:empty) ~ main .markdown-section {
@@ -110,7 +103,7 @@ article h1 {
 
 /* Sidebar */
 .sidebar ul li a {    
-    padding: 9px 0;
+    padding: 6px 0;
     line-height: normal;
     text-overflow: initial;
     white-space: normal;
