@@ -351,3 +351,14 @@ a.fab,
 a.fab:hover {
     color: white;
 }
+/* PRE */
+.content .markdown-section iframe {
+    width: 100%;
+}
+
+/* PRE */
+.content .markdown-section pre {
+    background-color: #e6f6f8;
+    max-height: 600px;
+    overflow-y: auto;
+}
