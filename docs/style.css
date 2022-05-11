@@ -121,7 +121,6 @@ article h1 {
 
 /* Sidebar */
 .sidebar ul li a {
-    background: #298596;
     
     padding: 6px 0;
     line-height: normal;
@@ -130,18 +129,15 @@ article h1 {
 }
 .sidebar ul li a,
 .sidebar ul li p {
-    background: #298596;
     font-size: 1rem;
     font-weight: 600;
 }
 .sidebar ul li ul a,
 .sidebar ul li ul p {
-    background: #298596;
     font-size: 0.875rem;
     font-weight: 400;
 }
 .sidebar ul li.active > a {
-    background: #298596;
     border-right: 4px solid;
 }
 .sidebar ul li ul {
