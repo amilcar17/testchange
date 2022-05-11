@@ -48,8 +48,8 @@ article h1 {
 
 /* Search bar*/
 .search input:focus {
-    box-shadow: none !important;
-    border-color: #898d8f !important;
+    box-shadow: none;
+    border-color: #898d8f ;
 }
 
 /* Navbar menu */
