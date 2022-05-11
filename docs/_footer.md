@@ -1,5 +1,7 @@
 <div style='opacity: 0.75; border-top: 1px dashed #9f9f9f;'>
 
+## Licencia
+
 ![Licencia](/images/inicio_licencia.png ":size=200")
 
 CC BY-NC-SA 4.0
