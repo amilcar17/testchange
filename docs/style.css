@@ -50,7 +50,7 @@
 
 /* Body, typography and containers */
 body { 
-    color: #454647;
+    color: red;
 }
 .markdown-section {
     padding-top: 5px;
@@ -120,7 +120,7 @@ article h1 {
 
 /* Sidebar */
 .sidebar ul li a {
-    color: red
+    
     padding: 6px 0;
     line-height: normal;
     text-overflow: initial;
