@@ -32,7 +32,7 @@
     --sidebar-toggle-border-color: transparent;
     --sidebar-toggle-offset-top: calc(45px - (var(--sidebar-toggle-height) / 2));
     --sidebar-nav-link-font-weight--hover: unset;
-    --sidebar-nav-indent: 100px;
+    --sidebar-nav-indent: 8px;
     --link-color: #284472;
     --emoji-size: 1.125rem;
     --code-font-size: 0.85rem;
