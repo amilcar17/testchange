@@ -197,7 +197,76 @@ img.medium-zoom-image {
 }
 
 /* UL LI not so special style */
+.content .markdown-section ul label h1, 
+.content .markdown-section ol label h1,
+.content .markdown-section ul label h2, 
+.content .markdown-section ol label h2,
+.content .markdown-section ul label h3, 
+.content .markdown-section ol label h3,
+.content .markdown-section ul label h4, 
+.content .markdown-section ol label h4,
+.content .markdown-section ul label h5, 
+.content .markdown-section ol label h5
+.content .markdown-section ul label h6, 
+.content .markdown-section ol label h6 {
+	display: inline;
+}
+.content .markdown-section ul .task-list-item input, 
+.content .markdown-section ol .task-list-item input {
+	vertical-align: -0.125em;
+}
+.content .markdown-section ul:not(.task-list), 
+.content .markdown-section .content .markdown-section ul:not(.task-list) {
+	margin: .5em 0 .6em 0em;
+	list-style: none;
+}
+.content .markdown-section ul:not(.task-list)>li:before, 
+.content .markdown-section .content .markdown-section ul:not(.task-list)>li:before {
+	content: '\25a0';
+	padding-right: 0.75rem;
+	color: #01295c;
+}
+.content .markdown-section ul:not(.task-list) li ul:not(.task-list) li:before, 
+.content .markdown-section .content .markdown-section ul:not(.task-list) li ul:not(.task-list) li:before,
+.content .markdown-section ol li ul:not(.task-list) li:before, 
+.content .markdown-section .content .markdown-section ol li ul:not(.task-list) li:before {
+	content: '\25a1';
+	padding-right: 0.75rem;
+	color: #01295c;
+}
+.content .markdown-section ul:not(.task-list) li ul:not(.task-list) li ul:not(.task-list) li:before, 
+.content .markdown-section .content .markdown-section ul:not(.task-list) li ul:not(.task-list) li ul:not(.task-list) li:before,
+.content .markdown-section ul:not(.task-list) li ol li ul:not(.task-list) li:before, 
+.content .markdown-section .content .markdown-section ul:not(.task-list) li ol li ul:not(.task-list) li:before,
+.content .markdown-section ol li ol li ul:not(.task-list) li:before, 
+.content .markdown-section .content .markdown-section ol li ol li ul:not(.task-list) li:before,
+.content .markdown-section ol li ul:not(.task-list) li ul:not(.task-list) li:before, 
+.content .markdown-section .content .markdown-section ol li ul:not(.task-list) li ul:not(.task-list) li:before {
+	content: '\23fa';
+	padding-right: 0.75rem;
+	color: #298596;
+}
+.content .markdown-section ul:not(.task-list) li ul:not(.task-list) li ul:not(.task-list) li ul:not(.task-list) li:before, 
+.content .markdown-section .content .markdown-section ul:not(.task-list) li ul:not(.task-list) li ul:not(.task-list) li ul:not(.task-list) li:before,
+.content .markdown-section ul:not(.task-list) li ol li ul:not(.task-list) li ul:not(.task-list) li:before, 
+.content .markdown-section .content .markdown-section ul:not(.task-list) li ol li ul:not(.task-list) li ul:not(.task-list) li:before,
+.content .markdown-section ol li ol li ul:not(.task-list) li ul:not(.task-list) li:before, 
+.content .markdown-section .content .markdown-section ol li ol li ul:not(.task-list) li ul:not(.task-list) li:before,
+.content .markdown-section ol li ul:not(.task-list) li ul:not(.task-list) li ul:not(.task-list) li:before, 
+.content .markdown-section .content .markdown-section ol li ul:not(.task-list) li ul:not(.task-list) li ul:not(.task-list) li:before,
 
+.content .markdown-section ul:not(.task-list) li ul:not(.task-list) li ol li ul:not(.task-list) li ul:not(.task-list) li:before, 
+.content .markdown-section .content .markdown-section ul:not(.task-list) li ul:not(.task-list) li ol li ul:not(.task-list) li:before,
+.content .markdown-section ul:not(.task-list) li ol li ol li ul:not(.task-list) li:before, 
+.content .markdown-section .content .markdown-section ul:not(.task-list) li ol li ol li ul:not(.task-list) li:before,
+.content .markdown-section ol li ol li ol li ul:not(.task-list) li:before, 
+.content .markdown-section .content .markdown-section ol li ol li ol li ul:not(.task-list) li:before,
+.content .markdown-section ol li ul:not(.task-list) li ol li ul:not(.task-list) li:before, 
+.content .markdown-section .content .markdown-section ol li ul:not(.task-list) li ol li ul:not(.task-list) li:before {
+	content: '\1f786';
+	padding-right: 0.75rem;
+	color: #298596;
+}
 
 /* OL LI special style */
 .content .markdown-section li:before,
