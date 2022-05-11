@@ -188,7 +188,7 @@ img.medium-zoom-image {
     text-align: left;
 }
 .content .markdown-section table thead tr {
-    border: none;
+    border: 1px;
 }
 .content .markdown-section table td {
     border: 1px solid #f2f2f2;
