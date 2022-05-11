@@ -170,7 +170,7 @@ img.medium-zoom-image {
     padding: 0.5rem;
     margin-left: -1rem;
     margin-bottom: 0.5rem;
-    border-bottom: 1px solid #44638e;
+    border-bottom: 300px solid #44638e;
     font-weight: 500;
 }
 .content .markdown-section details summary:hover {
