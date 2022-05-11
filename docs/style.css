@@ -160,24 +160,6 @@ img.medium-zoom-image {
     height: auto;
 }
 
-
-/* DETAILS */
-.content .markdown-section details {
-    padding:  0 1rem 0 1rem;
-    margin-bottom: 0.5rem;
-}
-.content .markdown-section details summary {
-    padding: 0.5rem;
-    margin-left: -1rem;
-    margin-bottom: 0.5rem;
-    border-bottom: 300px solid #44638e;
-    font-weight: 500;
-}
-.content .markdown-section details summary:hover {
-    cursor: pointer;
-    background: #f2f2f2;
-}
-
 /* TABLE */
 .content .markdown-section table {
     font-size: 0.875rem;
