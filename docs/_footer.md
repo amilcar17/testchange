@@ -2,7 +2,7 @@
 
 ## Licencia
 
-![Licencia](/images/inicio_licencia.png ":size=30%")
+![Licencia](/images/inicio_licencia.png ":size=100")
 
 CC BY-NC-SA 4.0
 
